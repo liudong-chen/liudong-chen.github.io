@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink:
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). 

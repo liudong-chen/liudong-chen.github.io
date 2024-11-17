@@ -11,7 +11,7 @@ redirect_from:
 
 Teaching
 ======
-EEEL4220 Energy System Economics and Optimization
+## EEEL4220 Energy System Economics and Optimization
 
 Teaching Assistant, *Columbia University, Earth and Environmental Engineering*, 2024
 

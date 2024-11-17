@@ -11,7 +11,7 @@ author_profile: true
 * **(Oral & poster)** 6th NREL Autonomous Energy Systems Workshop: Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach. Sep. 2023, Denver, U.S. [[Slides](../assets/2023AES_ppt.pdf)] [[Poster](../assets/2023AES_poster.pdf)]
 * **(Oral)** ACM SIGEnergy Graduate Student Seminar: Prudent Price-Responsive Demands. May. 2024, Online. [[Slides](../assets/prudent_ppt.pdf)]
 * **(Oral)** 2023 North American Power Symposium (NAPS): Equitable Time-Varying Pricing Tariff Design. Oct. 2023, Asheville, U.S. [[Slides](../assets/2023NAPS_slide.pdf)]
-* **(Oral)** 5th annual Columbia University EEE Graduate Student Symposium: Optimal Offering Strategy of a Price-Taking Virtual Power Plant (VPP). Sep. 2023, New York, U.S. [//]: [Slides](../assets/prudent_ppt.pdf)
+* **(Oral)** 5th annual Columbia University EEE Graduate Student Symposium: Optimal Offering Strategy of a Price-Taking Virtual Power Plant (VPP). Sep. 2023, New York, U.S. 
 * **(Poster)** 2024 IEEE PES General Meeting: Prudent Price-Responsive Demands. Jul. 2024, Seatle, U.S. [[Poster](../assets/prudent_poster.pdf)]
 * **(Poster)** 2024 IEEE ISGT NA: Demand Side Flexibility Envelope Quantification Under Data Scarcity. Feb. 2024, D.C., U.S. [[Poster](../assets/2024ISGT_poster.pdf)]
 * **(Poster)** 2023 IEEE PES General Meeting: Saturation Effects in Equitable Demand Response Tariff Design. Jul. 2023, Orlando, U.S. [[Poster](../assets/2023_PESGM.pdf)]

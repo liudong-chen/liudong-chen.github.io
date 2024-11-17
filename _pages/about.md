@@ -6,7 +6,7 @@ author_profile: true
 
 I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). 
 
-My research interests lie in the intersection of energy systems economics, optimization theory, and machine learning techniques. Specifically, decision-making analysis with convex formulation under uncertainties, strategic behavior analysis for energy management through game theory, equitable sustainability energy solutions in terms of utility tariff design, infrastructure investment plan, and aggregator pricing scheme analysis.
+My research interests lie in the intersection of energy systems economics, optimization theory, and machine learning techniques. Specifically, decision-making with convex formulation under uncertainties, strategic behavior analysis for energy management through game theory, equitable sustainability energy solutions in terms of utility tariff design, infrastructure investment plan, and aggregator pricing scheme analysis.
 
 You can find my [CV](../assets/CV_use.pdf) here
 

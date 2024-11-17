@@ -30,7 +30,7 @@ When I'm not studying, I love playing badminton, ping pong, and billiards, hitti
 
 # Art
 
-Art is like soul food, and music has been my loyal companion through every twist and turn, whether I'm riding high on joy or down in the dumps.
+Art is the perfect remedy for nourishing the soul, and music has been my loyal companion through every twist and turn, whether I'm riding high on joy or down in the dumps.
 
 # Travel & Photography
 

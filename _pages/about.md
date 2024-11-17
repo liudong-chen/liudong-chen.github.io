@@ -12,7 +12,7 @@ You can find my [CV](../assets/CV_use.pdf) here
 
 Bio
 ======
-Liudong Chen is currently pursuing a Ph.D. degree in Earth and Environmental Engineering from Columbia University. He received a B.S. and M.S. degree in Electrical Engineering from North China Electric Power University. He was a Ph.D. summer intern at the National Renewable Energy Laboratory (NREL) in 2023. He was the recipient of the IEEE Power & Energy Society Outstanding Student Scholarship in 2022, the China National Scholarship in 2018, 2021, and 2022, and the First Prize of China Graduate Student Mathematical Mathematical Contest in Modeling in 2019. He is the reviewer of multiple journals, including IEEE Trans. Smart Grid, IEEE Trans. Power System, IEEE Trans. Susitanbiliy Energy, Sustainable Energy, Grids and Networks, IEEE Trans. Industrial Informatics, etc.
+Liudong Chen is currently pursuing a Ph.D. degree in Earth and Environmental Engineering from Columbia University. He received a B.S. and M.S. degree in Electrical Engineering from North China Electric Power University. He was a Ph.D. summer intern at the National Renewable Energy Laboratory (NREL) in 2023. He was the recipient of the IEEE Power & Energy Society Outstanding Student Scholarship in 2022. He is the reviewer of many journals, including IEEE Trans. Smart Grid, IEEE Trans. Power System, IEEE Trans. Susitanbiliy Energy, Sustainable Energy, Grids and Networks, IEEE Trans. Industrial Informatics, etc.
 
 Latest News
 ======

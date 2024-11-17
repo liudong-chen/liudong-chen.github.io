@@ -16,15 +16,15 @@ Liudong Chen is currently pursuing a Ph.D. degree in Earth and Environmental Eng
 
 Latest News
 ======
-Oct. 2024: Our work about peak shaving is accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
+**Oct. 2024**: Our work about peak shaving is accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
 
-Sep. 2024: Our paper about uncertainty decision-making analysis ([Prudent Price-Responsive Demands](../assets/Prudent_demand.pdf)) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL.
+**Sep. 2024**: Our paper about uncertainty decision-making analysis ([Prudent Price-Responsive Demands](../assets/Prudent_demand.pdf)) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL.
 
-Feb. 2024: I am going to present our work about [Demand Side Flexibility Envelop Quantification](../assets/Demand_flexibility.pdf) in the poster section at The 2024 Conference on Innovative Smart Grid Technologies, North America (ISGT NA 2024) 
+**Feb. 2024**: I am going to present our work about [Demand Side Flexibility Envelop Quantification](../assets/Demand_flexibility.pdf) in the poster section at The 2024 Conference on Innovative Smart Grid Technologies, North America (ISGT NA 2024) 
 
-Oct. 2023: Our paper about [Saturation Effects in Equitable Demand Response Tariff Design](../assets/Saturation_Effects.pdf) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL.
+**Oct. 2023**: Our paper about [Saturation Effects in Equitable Demand Response Tariff Design](../assets/Saturation_Effects.pdf) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL.
 
-May. 2023: I'm so excited to start the summer internship at NREL; I will work on the optimal offering design of the virtual power plant.
+**May. 2023**: I'm so excited to start the summer internship at NREL; I will work on the optimal offering design of the virtual power plant.
 
 
 

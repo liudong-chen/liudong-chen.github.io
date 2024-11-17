@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Liudong Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              :   Liudong Chen is a Ph.D student of Earth and Environmental Engineering at Columbia University.
 url                      : https://liudong-chen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liudong-chen.github.io"
@@ -21,10 +21,11 @@ repository               : "liudong-chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/assets/Liudong_person.jpg"
   name             : "Liudong (Leo) Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student \\ Columbia University"
+  bio              : "Ph.D. Student <br />
+                      Columbia University"
   # location         : "Earth"
   # employer         : "Red Brick University"
   uri              : # URL
@@ -32,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1dh-_F8AAAAJ"
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL

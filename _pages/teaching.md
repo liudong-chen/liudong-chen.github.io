@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Teaching
 ======
-Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+EEEL4220 Energy System Economics and Optimization
+
+Teaching Assistant, *Columbia University, Earth and Environmental Engineering*, 2024
+
+Fundamentals of power system economics over which the current electricity markets are designed. Formulation of unit commitment and economic dispatch as mathematical optimization. Modeling of thermal generators, renewable generators, energy storage, and other grid resources in power system optimization. Introduction of equilibriums in electricity markets. Introduction of ancillary service markets. Overview of current energy system research topics. [Syllabus](../assets/EEEL4220_Syllabus.pdf)

@@ -16,6 +16,6 @@ author_profile: true
 * **(Poster)** 2024 IEEE ISGT NA: Demand Side Flexibility Envelope Quantification Under Data Scarcity. Feb. 2024, D.C., U.S. [Poster](../assets/demand_flexibility_poster.pdf)
 * **(Poster)** 2023 IEEE PES General Meeting: Saturation Effects in Equitable Demand Response Tariff Design. Jul. 2023, Orlando, U.S. [Poster](../assets/saturation_poster.pdf)
 * **(Poster)** 2023 Columbia Unversity Data Science Day: Saturation Effects in Equitable Demand Response Tariff Design. Apr. 2023, New York, U.S. [Poster](../assets/saturation_poster.pdf)
-* **(Oral)** IEEE 6th Conference on Energy Internet and Energy System Integration (EI2): False Data Injection Attack in Interactive Demand Response. Oct. 2021. Taiyuan, China. 
+* **(Oral)** IEEE 6th Conference on Energy Internet and Energy System Integration (EI2): Cyber Security in Interactive Demand Response. Oct. 2021. Taiyuan, China. 
 * **(Oral)** 2021 IEEE IAS Industrial & Commercial Power System Asia: Learning-based Distribution Network Reconfiguration Algorithm, Jul. 2021, Chengdu, China. 
   

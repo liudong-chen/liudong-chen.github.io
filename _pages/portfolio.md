@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: false

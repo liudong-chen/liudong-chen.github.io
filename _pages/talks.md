@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-* **(Poster)** 7th NREL Autonomous Energy Systems Workshop: Prudent Price-Responsive Demands. Sep. 2024, Denver, U.S. [Poster](../assets/prudent_poster.pdf)
-* **(Oral & poster)** 6th NREL Autonomous Energy Systems Workshop: Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach. Sep. 2023, Denver, U.S. [Slides](../assets/2023AES_poster.pdf)[Poster](../assets/2023AES_ppt.pdf)
+* **(Poster)** 7th NREL Autonomous Energy Systems Workshop: Prudent Price-Responsive Demands. Sep. 2024, Denver, U.S. [[Poster](../assets/prudent_poster.pdf)]
+* **(Oral & poster)** 6th NREL Autonomous Energy Systems Workshop: Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach. Sep. 2023, Denver, U.S. [Slides](../assets/2023AES_poster.pdf). [Poster](../assets/2023AES_ppt.pdf)
 * **(Oral)** ACM SIGEnergy Graduate Student Seminar: Prudent Price-Responsive Demands. May. 2024, Online. [Slides](../assets/prudent_ppt.pdf)
 * **(Oral)** 2023 North American Power Symposium (NAPS): Equitable Time-Varying Pricing Tariff Design. Oct. 2023, Asheville, U.S. [Slides](../assets/2023NAPS_slide.pdf)
 * **(Oral)** 5th annual Columbia University EEE Graduate Student Symposium: Optimal Offering Strategy of a Price-Taking Virtual Power Plant (VPP). Sep. 2023, New York, U.S. [//]:[Slides](../assets/prudent_ppt.pdf)

@@ -1,21 +1,20 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /resume
+  - /research
 ---
 
 {% include base_path %}
 
-Education
+Highlight 1: Decision-making analysis under uncertainties
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Highlight 2: Strategic behavior analysis for energy management
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,7 +31,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Highlight 3: Equitable sustainability energy solutions
 ======
 * Skill 1
 * Skill 2

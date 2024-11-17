@@ -1,10 +1,13 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications
 ---
+
+You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=1dh-_F8AAAAJ)
 
 {% include base_path %}
 

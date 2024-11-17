@@ -26,7 +26,8 @@ When I'm not studying, I love playing badminton, ping pong, and billiards, hitti
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 22px;" src="/assets/ming.jpeg" width="165px" >
-  
+
+
 # Art
 
 Art is like soul food, and music has been my loyal companion through every twist and turn, whether I'm riding high on joy or down in the dumps.

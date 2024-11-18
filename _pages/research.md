@@ -30,16 +30,13 @@ Coincident peak (CP) demand charge charges consumers' individual demand at the s
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
-  margin-left: 0px;" src="/assets/Subjective_probability.jpg" width="300px" >
+  margin-left: 0px;" src="/assets/Social_attributes_figure.png" width="300px" >
 <br />
 Distributed energy resources (DER) shift customers' patterns from consumers to prosumers, facilitate their participation in the energy market, and their subjective behavior affects market operations. We modeled subjective prosumers of energy trading based on prospect theory and stochastic game models and provided a solution algorithm that combines fitting, Markovian process, and heuristics method. [[Link](../assets/Social_Attributes.pdf)]. By virtue of a behavior trial dataset from Ireland, we provided a learning-based method to learn decision behavior and then embed the behavior in the sub-following energy trading game model. [[Link](../assets/Data_Driven_Stochastic_Game.pdf)]
 
 <br />
 <br />
 <br />
-<br />
-
-<img src="/assets/Social_attributes_figure.png" width="600px" />
 <br />
 
 # Highlight 3: Equitable sustainability energy solutions

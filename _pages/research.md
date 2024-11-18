@@ -39,7 +39,7 @@ Distributed energy resources (DER) shift customers' patterns from consumers to p
 <br />
 <br />
 
-<img style="center" src="/assets/Social_attributes_figure.png" width="600px" >
+<img src="/assets/Social_attributes_figure.png" width="600px" />
 <br />
 
 # Highlight 3: Equitable sustainability energy solutions

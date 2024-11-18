@@ -12,20 +12,11 @@ author_profile: false
 Whether it's your body or your mind, one should always be on an adventure. 
 When I'm not studying, I love playing badminton, ping pong, and billiards, hitting the gym, and going for a jog.
 
-  <img style="float: left;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 0px;" src="/images/Ping_pong.jpg" width="200px" >
-
-  <img style="float: middle;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 210px;" src="/images/Badminton2.JPG" width="200px" >
-  
-  <img style="float: right;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 420px;" src="/images/Badminton1.jpg" width="200px" >
+<div style="display: flex; justify-content: space-between; margin-top: 10px; margin-bottom: 10px;">
+  <img src="/images/Ping_pong.jpg" width="200px" style="margin-right: 10px;">
+  <img src="/images/Badminton2.JPG" width="200px" style="margin-right: 10px;">
+  <img src="/images/Badminton1.jpg" width="200px">
+</div>
 
 <br />
 

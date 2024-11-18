@@ -6,13 +6,13 @@ author_profile: true
 
 I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). 
 
-My research interests lie in the intersection of energy systems economics, optimization theory, and machine learning techniques. Specifically, decision-making with convex formulation under uncertainties, strategic behavior analysis for energy management through game theory, equitable sustainability energy solutions in terms of utility tariff design, infrastructure investment plan, and aggregator pricing scheme analysis.
+My research interests focus on the intersection of energy systems economics, optimization theory, and machine learning. Specifically, I explore decision-making with convex formulation under uncertainties, analyze strategic behavior for energy management through game theory, and develop equitable sustainability energy solutions in terms of utility tariff design, infrastructure investment plan, and aggregator pricing scheme analysis.
 
 You can find my [CV](../assets/CV_1117.pdf) here
 
 Bio
 ======
-Liudong Chen is currently pursuing a Ph.D. degree in Earth and Environmental Engineering from Columbia University. He received a B.S. and M.S. degree in Electrical Engineering from North China Electric Power University. He was a Ph.D. summer intern at the National Renewable Energy Laboratory (NREL) in 2023. He was the recipient of the IEEE Power & Energy Society Outstanding Student Scholarship in 2022. He is the reviewer of many journals, including IEEE Trans. Smart Grid, IEEE Trans. Power System, IEEE Trans. Susitanbiliy Energy, Sustainable Energy, Grids and Networks, IEEE Trans. Industrial Informatics, etc.
+Liudong Chen is currently pursuing a Ph.D. in Earth and Environmental Engineering at Columbia University. He holds B.S. and M.S. degrees in Electrical Engineering from North China Electric Power University. He was a Ph.D. summer intern at the National Renewable Energy Laboratory (NREL) in 2023. He was the recipient of the IEEE Power & Energy Society Outstanding Student Scholarship in 2022. He serves as a reviewer for several journals, including IEEE Trans. Smart Grid, IEEE Trans. Power System, IEEE Trans. Susitanbiliy Energy, Sustainable Energy, Grids and Networks, IEEE Trans. Industrial Informatics, etc.
 
 Latest News
 ======

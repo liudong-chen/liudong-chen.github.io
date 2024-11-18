@@ -15,17 +15,17 @@ When I'm not studying, I love playing badminton, ping pong, and billiards, hitti
   <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/images/ming.jpeg" width="200px" >
+  margin-left: 0px;" src="/images/Ping_ping.jpg" width="200px" >
 
   <img style="float: middle;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 210px;" src="/images/ming.jpeg" width="200px" >
+  margin-left: 210px;" src="/images/Badminton1.jpg" width="200px" >
   
   <img style="float: right;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 420px;" src="/images/ming.jpeg" width="200px" >
+  margin-left: 420px;" src="/images/Badminton2.jpg" width="200px" >
 
 <br />
 <br />

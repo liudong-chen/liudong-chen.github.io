@@ -36,7 +36,7 @@ Art is the perfect remedy for nourishing the soul, and music has been my loyal c
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
-  margin-left: 0px;" src="/images/Sing,jpg" width="200px" >
+  margin-left: 0px;" src="/images/Sing.jpg" width="200px" >
 
   <img style="float: middle;  margin-top: 10px;
   margin-bottom: 10px;
@@ -56,5 +56,19 @@ Art is the perfect remedy for nourishing the soul, and music has been my loyal c
 
 Culture paints our world in vibrant colors. I love traveling, immersing myself in unique cultures, and capturing unforgettable moments along the way.
 
+ <img style="float: left;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;" src="/images/Montauk.JPEG" width="200px" >
+
+  <img style="float: middle;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 210px;" src="/images/Chicago.jpg" width="200px" >
+  
+  <img style="float: right;  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 420px;" src="/images/vocano.jpg" width="200px" >
 
 

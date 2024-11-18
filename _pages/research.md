@@ -15,6 +15,11 @@ author_profile: false
 <br />
 We proposed the concept of prudent demand, which states that future price uncertainties will affect immediate consumption patterns. We developed a theoretical framework and proved that demand exhibits prudence when the third-order derivative of its utility cost function is positive, and showed that prudent demand demonstrates risk-averse and skewness-averse behaviors despite the objective being risk-neutral. We concluded the implications for future demand response modeling and incentive mechanisms design. [[Link](https://arxiv.org/abs/2405.16356)]
 
+<br />
+<br />
+<br />
+<br />
+
 # Highlight 2: Strategic behavior analysis of energy management
 
 ## Game-based framework for coincident peak demand shaving (ongoing work)
@@ -29,6 +34,8 @@ Coincident peak (CP) demand charge charges consumers' individual demand at the s
 <br />
 Distributed energy resources (DER) shift customers' patterns from consumers to prosumers, facilitate their participation in the energy market, and their subjective behavior affects market operations. We modeled subjective prosumers of energy trading based on prospect theory and stochastic game models and provided a solution algorithm that combines fitting, Markovian process, and heuristics method. [[Link](../assets/Social_Attributes.pdf)]. By virtue of a behavior trial dataset from Ireland, we provided a learning-based method to learn decision behavior and then embed the behavior in the sub-following energy trading game model. [[Link](../assets/Data_Driven_Stochastic_Game.pdf)]
 
+<br />
+<br />
 <img style="center" src="/assets/Social_attributes_figure.png" width="600px" >
 <br />
 

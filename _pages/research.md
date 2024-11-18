@@ -34,8 +34,9 @@ We proposed the concept of prudent demand, which states that future price uncert
 <br />
 Distributed energy resources (DER) shift customers' roles from consumers to prosumers, facilitating their participation in the energy market, where their subjective behavior impacts market operations. We modeled subjective prosumers in energy trading using prospect theory and stochastic game models, and we developed a solution algorithm that combines fitting, Markovian processes, and heuristic methods. [[Link](../assets/Social_Attributes.pdf)]. Using a behavior trial dataset from Ireland, we implemented a learning-based method to understand decision-making behavior and then embedded this behavior into the subsequent energy trading game model. [[Link](../assets/Data_Driven_Stochastic_Game.pdf)]
 <br />
-<br />
 
+
+<br />
 <br />
 
 # Highlight 3: Equitable sustainability energy solutions

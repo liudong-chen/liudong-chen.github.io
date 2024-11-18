@@ -22,7 +22,7 @@ When I'm not studying, I love playing badminton, ping pong, and billiards, hitti
 
 # Art
 
-Art is the perfect remedy for nourishing the soul, and music has been my loyal companion through every twist and turn, whether I'm riding high on joy or down in the dumps. [[Video1](https://www.youtube.com/watch?v=K1lEshLJYCE)][[Video2](../images/955.MP4)]
+Art is the perfect remedy for nourishing the soul, and music has been my loyal companion through every twist and turn, whether I'm riding high on joy or down in the dumps. [[Video1](https://www.youtube.com/watch?v=K1lEshLJYCE)][[Video2](https://drive.google.com/file/d/1MpBANNctyrhf-ha-t6gFtM01gLP5DrTS/view?usp=drive_link)]
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px; margin-bottom: 10px;">
   <img src="/images/Sing.jpg" style="height: 200px; flex: 1; object-fit: contain;">

@@ -7,7 +7,7 @@ author_profile: false
 {% include base_path %}
 # Highlight 1: Decision-making under uncertainties
 
-### Decision behavior of prudent demand under future price uncertainties
+## Decision behavior of prudent demand under future price uncertainties
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
@@ -22,11 +22,11 @@ We proposed the concept of prudent demand, which states that future price uncert
 
 # Highlight 2: Strategic behavior analysis of energy management
 
-### Game-based framework for coincident peak demand shaving (ongoing work)
+## Game-based framework for coincident peak demand shaving (ongoing work)
 
 Coincident peak (CP) demand charge charges consumers' individual demand at the system's overall peak time. We proposed a novel game-based framework to analyze the CP shaving problem, developing a theoretical model to examine the impact of strategic consumer behavior on system efficiency. The game structure exhibits different characteristics depending on the extent to which customers can shift their demand. We derived analytical Nash equilibrium solutions and analyzed the price of anarchy by comparing it with a standardized centralized peak-sharing model.
 
-### Modeling customers' subjective behavior on energy trading
+## Modeling customers' subjective behavior on energy trading
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
@@ -44,11 +44,11 @@ Distributed energy resources (DER) shift customers' patterns from consumers to p
 
 # Highlight 3: Equitable sustainability energy solutions
 
-### Demographics-driven equitable electrification path (ongoing work)
+## Demographics-driven equitable electrification path (ongoing work)
 
 New York City will bear almost double electricity demand over the next two decades driven by the [electrification plan](https://www.nyc.gov/site/buildings/codes/ll154-building-electrification.page), requiring a 60% increase in investment in energy infrastructure. A top priority is to balance efficiency and affordability. We first analyze the distribution pattern of the current energy infrastructure and identify the related socio-technical impact, then propose a demographics-driven metric to determine the priority of investment in each census tract. Such metrics suggest a new grid planning direction and provide an equitable electrification path. 
 
-### Equitable pricing tariff schemes with price response behavior 
+## Equitable pricing tariff schemes with price response behavior 
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;

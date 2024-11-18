@@ -22,17 +22,14 @@ We proposed the concept of prudent demand, which states that future price uncert
 Coincident peak (CP) demand charge charges consumers' individual demand at the system's overall peak time. We proposed a novel game-based framework to analyze the CP shaving problem, developing a theoretical model to examine the impact of strategic consumer behavior on system efficiency. The game structure exhibits different characteristics depending on the extent to which customers can shift their demand. We derived analytical Nash equilibrium solutions and analyzed the price of anarchy by comparing it with a standardized centralized peak-sharing model.
 
 ## Modeling customers' subjective behavior on energy trading
-<img style="center: left;  margin-top: 10px;
+<img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
   margin-left: 0px;" src="/assets/Subjective_probability.jpg" width="300px" >
 <br />
 Distributed energy resources (DER) shift customers' patterns from consumers to prosumers, facilitate their participation in the energy market, and their subjective behavior affects market operations. We modeled subjective prosumers of energy trading based on prospect theory and stochastic game models and provided a solution algorithm that combines fitting, Markovian process, and heuristics method. [[Link](../assets/Social_Attributes.pdf)]. By virtue of a behavior trial dataset from Ireland, we provided a learning-based method to learn decision behavior and then embed the behavior in the sub-following energy trading game model. [[Link](../assets/Data_Driven_Stochastic_Game.pdf)]
 
-<img style="float: left;  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 45px;
-  margin-left: 0px;" src="/assets/Social_attributes_figure.png" width="600px" >
+<img style="center" src="/assets/Social_attributes_figure.png" width="600px" >
 <br />
 
 # Highlight 3: Equitable sustainability energy solutions

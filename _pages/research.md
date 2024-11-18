@@ -32,7 +32,7 @@ Distributed energy resources (DER) shift customers' patterns from consumers to p
 <img style="center: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
-  margin-left: 0px;" src="/assets/Subjective_probability.png" width="300px" >
+  margin-left: 0px;" src="/assets/Subjective_probability.jpg" width="300px" >
 <br />
 
 # Highlight 3: Equitable sustainability energy solutions
@@ -45,7 +45,7 @@ New York City will bear almost double electricity demand over the next two decad
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
-  margin-left: 0px;" src="/assets/equitable_tariff.png" width="300px" >
+  margin-left: 0px;" src="/assets/equitable_tariff.jpg" width="300px" >
 <br />
 Time-varying pricing tariffs incentivize customers to shift their electricity demand and reduce costs, but may increase the energy burden for customers with limited response capability. We proposed a joint learning-based identification and optimization method to design equitable time-varying tariffs. The proposed method connects learning and optimization by embedding customers' price response behavior, captured by a learning network structure, into the tariff design optimization. The equitable tariffs protect low-income consumers from price surges while motivating peak reduction and ensuring revenue recovery for utility companies. [[Link](https://arxiv.org/abs/2307.15088)]
 

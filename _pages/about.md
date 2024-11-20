@@ -24,7 +24,7 @@ Latest News
 
 **Oct. 2023**: Our paper about [Saturation Effects in Equitable Demand Response Tariff Design](../assets/Saturation_Effects.pdf) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL.
 
-**May. 2023**: I'm so excited to start the summer internship at NREL; I will work on the optimal offering design of the virtual power plant.
+**May. 2023**: I'm so excited to start the summer internship at NREL; I will work on the optimal offering design of the virtual power plant and demand-side flexibility quantification.
 
 
 

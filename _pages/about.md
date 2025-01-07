@@ -16,7 +16,8 @@ Liudong Chen is currently pursuing a Ph.D. in Earth and Environmental Engineerin
 
 Latest News
 ======
-**Oct. 2024**: Our work about peak shaving is accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
+
+**Oct. 2024**: Our work about [peak shaving](../assets/CPgame.pdf) has been accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
 
 **Sep. 2024**: Our paper about uncertainty decision-making analysis ([Prudent Price-Responsive Demands](../assets/Prudent_demand.pdf)) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL.
 

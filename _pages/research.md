@@ -26,7 +26,7 @@ We proposed the concept of prudent demand, which states that future price uncert
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
-  margin-left: 0px;" src="/assets/agent_number.pdf" width="450px" >
+  margin-left: 0px;" src="/assets/agent_number.jpg" width="450px" >
 <br />
 Coincident peak (CP) demand charges customers based on their individual demand at the system's overall peak time. We proposed a novel game-based framework to analyze the CP shaving problem, developing a theoretical model to examine the impact of strategic customer behavior on system efficiency. The game structure exhibits different characteristics depending on the extent to which customers can shift their demand. We derived analytical Nash equilibrium solutions and analyzed the price of anarchy by comparing it to a standardized centralized peak-sharing model. [[Link](https://arxiv.org/abs/2405.16356)]
 

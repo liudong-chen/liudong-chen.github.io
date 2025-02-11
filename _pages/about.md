@@ -10,9 +10,7 @@ My research interests focus on the intersection of energy systems economics, opt
 
 You can find my [CV](../assets/CV_Liudong.pdf) here
 
-Bio
-======
-Liudong Chen is currently pursuing a Ph.D. in Earth and Environmental Engineering at Columbia University. He holds B.S. and M.S. degrees in Electrical Engineering from North China Electric Power University. He was a Ph.D. summer intern at the National Renewable Energy Laboratory (NREL) in 2023. He was the recipient of the IEEE Power & Energy Society Outstanding Student Scholarship in 2022. He serves as a reviewer for several journals, including IEEE Trans. Smart Grid, IEEE Trans. Power System, IEEE Trans. Susitanbiliy Energy, Sustainable Energy, Grids and Networks, IEEE Trans. Industrial Informatics, etc.
+
 
 Latest News
 ======

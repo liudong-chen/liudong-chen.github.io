@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* **(Oral)** 6th annual Columbia University EEE Graduate Student Symposium: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Slides](../assets/2025EEE_ppt.pdf)]
 * **(Poster)** 2025 LANL Grid Science Winter School and Conference: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Jan. 2025, Santa Fe, U.S. [[Poster](../assets/2025_Winter_school.pdf)]
 * **(Poster)** 7th NREL Autonomous Energy Systems Workshop: Prudent Price-Responsive Demands. Sep. 2024, Denver, U.S. [[Poster](../assets/prudent_poster.pdf)]
 * **(Oral & poster)** 6th NREL Autonomous Energy Systems Workshop: Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach. Sep. 2023, Denver, U.S. [[Slides](../assets/2023AES_ppt.pdf)] [[Poster](../assets/2023AES_poster.pdf)]

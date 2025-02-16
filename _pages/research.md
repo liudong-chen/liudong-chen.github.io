@@ -20,7 +20,7 @@ We proposed the concept of prudent demand, which states that future price uncert
 <br />
 <br />
 
-# Highlight 2: Strategic behavior analysis of energy management
+# Highlight 2: Strategic behavior analysis for energy management
 
 ## Game-based framework for coincident peak demand shaving
 <img style="float: left;  margin-top: 10px;

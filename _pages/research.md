@@ -28,7 +28,7 @@ We proposed the concept of prudent demand, which states that future price uncert
   margin-right: 45px;
   margin-left: 0px;" src="/assets/agent_number.jpg" width="450px" >
 <br />
-Coincident peak (CP) demand charges customers based on their individual demand at the system's overall peak time. We proposed a novel game-based framework to analyze the CP shaving problem, developing a theoretical model to examine the impact of strategic customer behavior on system efficiency. The game structure exhibits different characteristics depending on the extent to which customers can shift their demand. We derived analytical Nash equilibrium solutions and analyzed the price of anarchy by comparing it to a standardized centralized peak-sharing model. [[Link](https://arxiv.org/abs/2405.16356)]
+Coincident peak (CP) demand charges customers based on their individual demand at the system's overall peak time. We proposed a novel game-based framework to analyze the CP shaving problem, developing a theoretical model to examine the impact of strategic customer behavior on system efficiency. The game structure exhibits different characteristics depending on the extent to which customers can shift their demand. We derived analytical Nash equilibrium solutions and analyzed the price of anarchy by comparing it to a standardized centralized peak-sharing model. [[Link](https://arxiv.org/abs/2501.02792)]
 
 ## Modeling customers' subjective behavior on energy trading
 <img style="float: left;  margin-top: 10px;
@@ -36,7 +36,7 @@ Coincident peak (CP) demand charges customers based on their individual demand a
   margin-right: 45px;
   margin-left: 0px;" src="/assets/Social_attributes_figure.png" width="450px" >
 <br />
-Distributed energy resources (DER) shift customers' roles from consumers to prosumers, facilitating their participation in the energy market, where their subjective behavior impacts market operations. We modeled subjective prosumers in energy trading using prospect theory and stochastic game models, and we developed a solution algorithm that combines fitting, Markovian processes, and heuristic methods. [[Link](../assets/Social_Attributes.pdf)]. Using a behavior trial dataset from Ireland, we implemented a learning-based method to understand decision-making behavior and then embedded this behavior into the subsequent energy trading game model. [[Link](../assets/Data_Driven_Stochastic_Game.pdf)]
+Distributed energy resources (DER) shift customers' roles from consumers to prosumers, facilitating their participation in the energy market, where their subjective behavior impacts market operations. We modeled subjective prosumers in energy trading using prospect theory and stochastic game models, and we developed a solution algorithm that combines fitting, Markovian processes, and heuristic methods. [[Link](../assets/Social_Attributes.pdf)]. Using a behavior trial dataset from Ireland, we implemented a learning-based method to understand decision-making behavior and then embedded this behavior into the subsequent energy trading game model. [[Link](../assets/Data-Driven_Stochastic_Game.pdf)]
 <br />
 
 

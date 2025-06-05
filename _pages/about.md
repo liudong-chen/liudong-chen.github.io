@@ -19,7 +19,7 @@ Latest News
 **Oct. 2024**: Our work about [peak shaving](https://arxiv.org/abs/2501.02792) has been accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
 
 **Sep. 2024**: Our paper about uncertainty decision-making analysis ([A Prudent Framework for Understanding Risk-Awareness in Demand Response
-](https://arxiv.org/abs/2405.16356) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL, and I am so excited to receive the travel support from NREL.
+](https://arxiv.org/abs/2405.16356)) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL, and I am so excited to receive the travel support from NREL.
 
 **Feb. 2024**: I am going to present our work about [Demand Side Flexibility Envelop Quantification](../assets/Demand_flexibility.pdf) in the poster section at The 2024 Conference on Innovative Smart Grid Technologies, North America (ISGT NA 2024) 
 

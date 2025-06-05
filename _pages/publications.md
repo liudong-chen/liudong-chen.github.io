@@ -15,7 +15,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 [J10] **Chen, L.**, Sethuraman, J., & Xu, B. (2025). Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. arXiv preprint 	arXiv:2501.02792. [Link](https://arxiv.org/abs/2501.02792)
 
-[J9] **Chen, L.**, & Xu, B. (2024). Prudent Price-Responsive Demands. arXiv preprint arXiv:2405.16356. [Link](https://arxiv.org/abs/2405.16356)
+[J9] **Chen, L.**, & Xu, B. (2024). A Prudent Framework for Understanding Risk-Awareness in Demand Response. arXiv preprint arXiv:2405.16356. [Link](https://arxiv.org/abs/2405.16356)
 
 [J8] Wang, J.\*, **Chen, L.**\* Tan, Z., Du, E., Liu, N., Ma, J., ... & He, G. (2023). Inherent spatiotemporal uncertainty of renewable power in China. Nature Communications, 14(1), 5379. [Link](https://www.nature.com/articles/s41467-023-40670-7)
 

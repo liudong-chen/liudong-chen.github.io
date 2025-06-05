@@ -14,6 +14,7 @@ You can find my [CV](../assets/CV_Liudong.pdf) here
 
 Latest News
 ======
+**May. 2025**: I'm so excited to start the summer internship at ISO-NE; I will work on the coordinated transaction scheduling between regional markets.
 
 **Oct. 2024**: Our work about [peak shaving](https://arxiv.org/abs/2501.02792) has been accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
 

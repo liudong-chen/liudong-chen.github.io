@@ -13,7 +13,7 @@ author_profile: false
   margin-right: 45px;
   margin-left: 0px;" src="/assets/Prudent_figure.png" width="300px" >
 <br />
-We show that risk-aware behaviors in demand response originate from non-quadratic discomfort state cost functions and price uncertainty with skewed distributions. We proposed a novel demand response formulation that combines non-anticipatory multi-stage decision making with non-quadratic cost functions, and showed prudence (the positive third-order derivative of the cost function) is the first principle that causes risk-averse decision behavior despite the formulation having a risk-neutral objective. We further proved that, given a non-quadratic cost function, the change in action level due to prudence scales proportionally with the skewness of the price distribution. [[Link](https://arxiv.org/abs/2405.16356)]
+We show that risk-aware behaviors in demand response originate from non-quadratic discomfort state cost functions and price uncertainty with skewed distributions. We proposed a novel demand response formulation that combines non-anticipatory multi-stage decision making with non-quadratic cost functions, and showed prudence (the positive third-order derivative of the cost function) is the first principle that causes risk-averse decision behavior despite the formulation having a risk-neutral objective. We further proved that, given a non-quadratic cost function, the change in decision action level due to prudence scales proportionally with the skewness of the price distribution. [[Link](https://arxiv.org/abs/2405.16356)]
 
 <br />
 <br />

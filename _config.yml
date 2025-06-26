@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Liudong Chen"
 title_separator          : "-"
-name                     : &name "Liudong Chen"
-description              :   Liudong Chen is a Ph.D student of Earth and Environmental Engineering at Columbia University.
-url                      : https://liudong-chen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : "Liudong Chen"
+description              : "Liudong Chen is a Ph.D student of Earth and Environmental Engineering at Columbia University."
+URL                      : "https://liudong-chen.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liudong-chen.github.io"
 

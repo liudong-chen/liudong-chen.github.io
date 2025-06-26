@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: 
+title: "About Me"
 author_profile: true
 ---
 
-About Me
-========
 I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). 
 
 My research focuses on analyzing and coordinating distributed energy resources through optimization, economics, and machine learning, addressing the challenges related to increasing uncertainty, behavior interdependence, and market adaptation. Specifically, I explore decision-making with convex formulation under uncertainties, analyze strategic behavior for energy management through game theory, and develop equitable sustainability energy solutions in terms of utility tariff design, infrastructure investment plan, and aggregator business model.

@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+* * **(Oral & Poster)** Independent System Operator - New England Intern Poster Expo: Efficiency Evaluation and Improvement of Coordinated Transaction Scheduling. Aug. 2025, Holyoke, U.S. [[Poster](../assets/ISONE-poster.pdf)]
+* * **(Oral)** Independent System Operator - New England Market and Optimization Group Meeting: A Prudent Framework for Understanding Risk-Awareness in Demand Response. Aug. 2025, Holyoke, U.S. [[Slides](../assets/Prudent_ISO.pptx)] 
 * **(Poster)** 2025 Columbia University Financial and Business Analytics Poster Session (Spring 2025): Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Poster](../assets/DSI_2025.pdf)]
 * **(Oral)** 6th annual Columbia University EEE Graduate Student Symposium: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Slides](../assets/2025EEE_ppt.pdf)]
 * **(Poster)** 2025 LANL Grid Science Winter School and Conference: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Jan. 2025, Santa Fe, U.S. [[Poster](../assets/2025_Winter_school.pdf)]
@@ -14,7 +16,7 @@ author_profile: true
 * **(Oral)** ACM SIGEnergy Graduate Student Seminar: Prudent Price-Responsive Demands. May. 2024, Online. [[Slides](../assets/prudent_ppt.pdf)]
 * **(Oral)** 2023 North American Power Symposium (NAPS): Equitable Time-Varying Pricing Tariff Design. Oct. 2023, Asheville, U.S. [[Slides](../assets/2023NAPS_slide.pdf)]
 * **(Oral)** 5th annual Columbia University EEE Graduate Student Symposium: Optimal Offering Strategy of a Price-Taking Virtual Power Plant (VPP). Sep. 2023, New York, U.S. 
-* **(Poster)** 2024 IEEE PES General Meeting: Prudent Price-Responsive Demands. Jul. 2024, Seatle, U.S. [[Poster](../assets/prudent_poster.pdf)]
+* **(Poster)** 2024 IEEE PES General Meeting: Prudent Price-Responsive Demands. Jul. 2024, Seattle, U.S. [[Poster](../assets/prudent_poster.pdf)]
 * **(Poster)** 2024 IEEE ISGT NA: Demand Side Flexibility Envelope Quantification Under Data Scarcity. Feb. 2024, D.C., U.S. [[Poster](../assets/2024ISGT_poster.pdf)]
 * **(Poster)** 2023 IEEE PES General Meeting: Saturation Effects in Equitable Demand Response Tariff Design. Jul. 2023, Orlando, U.S. [[Poster](../assets/2023_PESGM.pdf)]
 * **(Poster)** 2023 Columbia University Data Science Day: Saturation Effects in Equitable Demand Response Tariff Design. Apr. 2023, New York, U.S. [[Poster](../assets/2023_PESGM.pdf)]

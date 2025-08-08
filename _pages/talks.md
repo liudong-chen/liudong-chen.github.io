@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-* * **(Oral & Poster)** Independent System Operator - New England Intern Poster Expo: Efficiency Evaluation and Improvement of Coordinated Transaction Scheduling. Aug. 2025, Holyoke, U.S. [[Poster](../assets/ISONE-poster.pdf)]
-* * **(Oral)** Independent System Operator - New England Market and Optimization Group Meeting: A Prudent Framework for Understanding Risk-Awareness in Demand Response. Aug. 2025, Holyoke, U.S. [[Slides](../assets/Prudent_ISO.pptx)] 
+* **(Oral & Poster)** Independent System Operator - New England Intern Poster Expo: Efficiency Evaluation and Improvement of Coordinated Transaction Scheduling. Aug. 2025, Holyoke, U.S. [[Poster](../assets/ISONE-poster.pdf)]
+* **(Oral)** Independent System Operator - New England Market and Optimization Group Meeting: A Prudent Framework for Understanding Risk-Awareness in Demand Response. Aug. 2025, Holyoke, U.S. [[Slides](../assets/Prudent_ISO.pptx)] 
 * **(Poster)** 2025 Columbia University Financial and Business Analytics Poster Session (Spring 2025): Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Poster](../assets/DSI_2025.pdf)]
 * **(Oral)** 6th annual Columbia University EEE Graduate Student Symposium: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Slides](../assets/2025EEE_ppt.pdf)]
 * **(Poster)** 2025 LANL Grid Science Winter School and Conference: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Jan. 2025, Santa Fe, U.S. [[Poster](../assets/2025_Winter_school.pdf)]

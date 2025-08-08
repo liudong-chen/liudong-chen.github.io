@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* **(Poster)** 2025 Columbia Unversity Financial and Business Analytics Poster Session (Spring 2025): Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Poster](../assets/DSI_2025.pdf)]
+* **(Poster)** 2025 Columbia University Financial and Business Analytics Poster Session (Spring 2025): Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Poster](../assets/DSI_2025.pdf)]
 * **(Oral)** 6th annual Columbia University EEE Graduate Student Symposium: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Slides](../assets/2025EEE_ppt.pdf)]
 * **(Poster)** 2025 LANL Grid Science Winter School and Conference: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Jan. 2025, Santa Fe, U.S. [[Poster](../assets/2025_Winter_school.pdf)]
 * **(Poster)** 7th NREL Autonomous Energy Systems Workshop: Prudent Price-Responsive Demands. Sep. 2024, Denver, U.S. [[Poster](../assets/prudent_poster.pdf)]
@@ -17,7 +17,7 @@ author_profile: true
 * **(Poster)** 2024 IEEE PES General Meeting: Prudent Price-Responsive Demands. Jul. 2024, Seatle, U.S. [[Poster](../assets/prudent_poster.pdf)]
 * **(Poster)** 2024 IEEE ISGT NA: Demand Side Flexibility Envelope Quantification Under Data Scarcity. Feb. 2024, D.C., U.S. [[Poster](../assets/2024ISGT_poster.pdf)]
 * **(Poster)** 2023 IEEE PES General Meeting: Saturation Effects in Equitable Demand Response Tariff Design. Jul. 2023, Orlando, U.S. [[Poster](../assets/2023_PESGM.pdf)]
-* **(Poster)** 2023 Columbia Unversity Data Science Day: Saturation Effects in Equitable Demand Response Tariff Design. Apr. 2023, New York, U.S. [[Poster](../assets/2023_PESGM.pdf)]
+* **(Poster)** 2023 Columbia University Data Science Day: Saturation Effects in Equitable Demand Response Tariff Design. Apr. 2023, New York, U.S. [[Poster](../assets/2023_PESGM.pdf)]
 * **(Oral)** IEEE 6th Conference on Energy Internet and Energy System Integration (EI2): Cyber Security in Interactive Demand Response. Oct. 2021. Taiyuan, China. 
 * **(Oral)** 2021 IEEE IAS Industrial & Commercial Power System Asia: Learning-based Distribution Network Reconfiguration Algorithm, Jul. 2021, Chengdu, China. 
   

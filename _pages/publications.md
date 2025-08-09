@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=1dh-_F8AAAAJ)
+You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=1dh-_F8AAAAJ&hl=en&oi=ao)
 
 {% include base_path %}
 

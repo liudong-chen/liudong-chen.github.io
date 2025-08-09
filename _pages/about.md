@@ -14,18 +14,17 @@ You can find my [CV](../assets/CV_Liudong.pdf) here
 
 Latest News
 ======
-**May. 2025**: I'm so excited to start the summer internship at ISO-NE; I will work on the coordinated transaction scheduling between regional markets.
+**May. 2025**: I'm so excited to start the summer internship at ISO-NE; I will work on the efficiency evaluation and improvement of coordinated transaction scheduling between regional markets.
 
 **Oct. 2024**: Our work about [peak shaving](https://arxiv.org/abs/2501.02792) has been accepted to be presented at the 2025 Grid Science Winter School and Conference at Los Alamos National Lab (LANL), and I am so excited to receive the travel funding from LANL.
 
-**Sep. 2024**: Our paper about uncertainty decision-making analysis ([A Prudent Framework for Understanding Risk-Awareness in Demand Response
-](https://arxiv.org/abs/2405.16356)) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL, and I am so excited to receive the travel support from NREL.
+**Sep. 2024**: Our paper about decision-making analysis under uncertainty ([A Prudent Framework for Understanding Risk-Awareness in Demand Response](https://arxiv.org/abs/2405.16356)) is accepted to be presented at the 7th Workshop on Autonomous Energy Systems at NREL, and I am so excited to receive the travel support from NREL.
 
 **Feb. 2024**: I am going to present our work about [Demand Side Flexibility Envelop Quantification](../assets/Demand_flexibility.pdf) in the poster section at The 2024 Conference on Innovative Smart Grid Technologies, North America (ISGT NA 2024) 
 
 **Sep. 2023**: Our paper about [Saturation Effects in Equitable Demand Response Tariff Design](../assets/Saturation_Effects.pdf) is accepted to be presented at the 6th Workshop on Autonomous Energy Systems at NREL.
 
-**May. 2023**: I'm so excited to start the summer internship at NREL; I will work on the optimal offering design of the virtual power plant and demand-side flexibility quantification.
+**May. 2023**: I'm so excited to start the summer internship at NREL; I will work on the optimal offering curve design of the virtual power plant and demand-side flexibility quantification.
 
 
 

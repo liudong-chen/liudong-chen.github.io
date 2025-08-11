@@ -6,7 +6,7 @@ author_profile: true
 
 I am a PhD student at [Columbia University in the City of New York](https://www.columbia.edu/), [Department of Earth and Environmental Engineering](https://www.eee.columbia.edu/), supervised by Prof. [Bolun Xu](https://bolunxu.github.io/). 
 
-My research focuses on behavior modeling and analysis in energy systems through optimization, economics, and machine learning, addressing the challenges related to increasing uncertainty, strategy interdependence, and market inclusiveness. Specifically, I explore temporally dependent decision-making under uncertainties, analyze strategic behavior for energy management through game theory, and develop sustainable energy solutions in terms of utility tariff design, infrastructure investment plan, and aggregator business model.
+My research focuses on behavior modeling and analysis in energy systems through optimization, economics, and machine learning, addressing the challenges related to increasing uncertainty, strategy interdependence, and market inclusiveness. Specifically, I explore temporally dependent decision-making under uncertainties, analyze strategic behavior for energy management through game theory, and develop sustainable energy solutions in terms of utility tariff design, electrification path, and aggregator business model.
 
 You can find my [CV](../assets/CV_Liudong.pdf) here
 

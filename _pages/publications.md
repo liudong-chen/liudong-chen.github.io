@@ -15,7 +15,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 [P3] **Liudong Chen**, Jay Sethuraman, and Bolun Xu, "Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior," arXiv preprint:2501.02792, 2025 [Link](https://arxiv.org/abs/2501.02792)
 
-[P2] **Liudong Chen**, and Bolun Xu, "Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach," arXiv preprint:2307.15088, 2023. [Link](https://arxiv.org/abs/2307.15088)
+[P2] **Liudong Chen**, and Bolun Xu, "A Joint Learning and Optimization Framework for Behavior-Informed Time-Varying Pricing," arXiv preprint:2307.15088, 2023. [Link](https://arxiv.org/abs/2307.15088)
 
 [P1] **Liudong Chen**, Bolun Xu, Bai Cui, and Shixuan Zhang, "Optimal Offer Curve Design of a Virtual Power Plant Considering Multi-Stage Uncertainties," Available at SSRN:5069035, 2024 [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5069035)
 

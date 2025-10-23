@@ -15,7 +15,7 @@ author_profile: false
 <br />
 We show that risk-aware behaviors in demand response originate from non-quadratic discomfort state cost functions and price uncertainty with skewed distributions. We proposed a novel demand response formulation that combines non-anticipatory multi-stage decision making with non-quadratic cost functions, and showed prudence (the positive third-order derivative of the cost function) is the first principle that causes risk-averse decision behavior despite the formulation having a risk-neutral objective. We further proved that, given a non-quadratic cost function, the change in decision action level due to prudence scales proportionally with the skewness of the price distribution. [[Link](https://arxiv.org/abs/2405.16356)]
 
-## Heterogeneity and uncertainty impact on energy consumers' desicion making
+## Heterogeneity and uncertainty impact on energy consumers' decision-making
 <img style="float: left;  margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 45px;
@@ -41,7 +41,7 @@ Coincident peak (CP) demand charges customers based on their individual demand a
 ## Interdependence between network structure and strategic consumers
 In practice, industrial consumers often have multiple network access points. We show that jointly optimizing access point selection and consumption adjustment can reduce energy transactions between the grid and consumers, thereby mitigating the operational impact on the grid [[Link](../assets/Multiple_Sharing_Region.pdf)]. Building on this, I developed a methodology that incentivizes consumers to adjust demand patterns while enabling the system operator to adaptively reconfigure the network through switch-position adjustments, improving operational efficiency [[Link](../assets/Dynamic_network_structures.pdf)]. Extending this line of research, I designed a voltage regulation approach in which autonomous consumers with solar panels are incentivized to provide voltage support, making use of existing infrastructure to support stable system operation [[Link](../assets/Voltage_Regulation.pdf)].
 
-%% Distributed energy resources (DER) shift customers' roles from consumers to prosumers, facilitating their participation in the energy market, where their subjective behavior impacts market operations. We modeled subjective prosumers in energy trading using prospect theory and stochastic game models, and we developed a solution algorithm that combines fitting, Markovian processes, and heuristic methods. [[Link](../assets/Social_Attributes.pdf)]. Using a behavior trial dataset from Ireland, we implemented a learning-based method to understand decision-making behavior and then embedded this behavior into the subsequent energy trading game model. [[Link](../assets/Data-Driven_Stochastic_Game.pdf)] 
+// Distributed energy resources (DER) shift customers' roles from consumers to prosumers, facilitating their participation in the energy market, where their subjective behavior impacts market operations. We modeled subjective prosumers in energy trading using prospect theory and stochastic game models, and we developed a solution algorithm that combines fitting, Markovian processes, and heuristic methods. [[Link](../assets/Social_Attributes.pdf)]. Using a behavior trial dataset from Ireland, we implemented a learning-based method to understand decision-making behavior and then embedded this behavior into the subsequent energy trading game model. [[Link](../assets/Data-Driven_Stochastic_Game.pdf)] 
 <br />
 
 

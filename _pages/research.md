@@ -14,6 +14,7 @@ author_profile: false
   margin-left: 0px;" src="/assets/Prudent_figure.png" width="300px" >
 <br />
 We show that risk-aware behaviors in demand response originate from non-quadratic discomfort state cost functions and price uncertainty with skewed distributions. We proposed a novel demand response formulation that combines non-anticipatory multi-stage decision making with non-quadratic cost functions, and showed prudence (the positive third-order derivative of the cost function) is the first principle that causes risk-averse decision behavior despite the formulation having a risk-neutral objective. We further proved that, given a non-quadratic cost function, the change in decision action level due to prudence scales proportionally with the skewness of the price distribution. [[Link](https://arxiv.org/abs/2405.16356)]
+<br />
 
 ## Heterogeneity and uncertainty impact on energy consumers' decision-making
 <img style="float: left;  margin-top: 10px;
@@ -21,7 +22,7 @@ We show that risk-aware behaviors in demand response originate from non-quadrati
   margin-right: 45px;
   margin-left: 0px;" src="/assets/Social_attributes_figure.png" width="450px" >
 <br />
-Heterogeneity interacts with uncertainty, shaping consumer behavior away from representative rational optimization. We first quantified the predictability of renewable generation patterns in China [[Link](https://www.nature.com/articles/s41467-023-40670-7)], revealing the inherent uncertainty faced by renewable consumers. Building on this, we draw on prospect theory from economics--where decision makers tend to be aggressive under losses and conservative under gains--to model boundedly rational consumers behavior under incentive mechanisms. We show that such rationality redistributes consumers’ demand patterns in response to incentives [[Link](../assets/Social_Attributes.pdf)]. To capture heterogeneous individual responses more precisely, we integrated social survey data with load metering records and applied a spatio-temporal neural network to learn response behavior and embed it to design behavior-aware pricing mechanisms [[Link](../assets/Data-Driven_Stochastic_Game.pdf)].
+Heterogeneity interacts with uncertainty, shaping consumer behavior away from representative rational optimization. We first quantified the predictability of renewable generation patterns in China [[Link](https://www.nature.com/articles/s41467-023-40670-7)], revealing the inherent uncertainty faced by renewable consumers. Building on this, we draw on prospect theory from economics--where decision makers tend to be aggressive under losses and conservative under gains--to model boundedly rational consumers' behavior under incentive mechanisms. We show that such rationality redistributes consumers’ demand patterns in response to incentives [[Link](../assets/Social_Attributes.pdf)]. To capture heterogeneous individual responses more precisely, we integrated social survey data with load metering records and applied a spatio-temporal neural network to learn response behavior and embed it to design behavior-aware pricing mechanisms [[Link](../assets/Data-Driven_Stochastic_Game.pdf)].
 
 <br />
 <br />

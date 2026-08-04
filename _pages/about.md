@@ -8,7 +8,7 @@ I am a PhD student at [Columbia University in the City of New York](https://www.
 
 My research focuses on behavior modeling and analysis in energy systems through optimization, economics, and machine learning, addressing the challenges related to increasing uncertainty, strategy interdependence, and market inclusiveness. Specifically, I rationalize decision behavior under uncertainty, interpret strategic behavior under emerging mechanisms, and develop sustainable energy solutions in terms of utility tariff design, infrastructure development, and aggregator business model.
 
-You can find my [CV](../assets/CV_Liudong.pdf) here
+% You can find my [CV](../assets/CV_Liudong.pdf) here
 
 
 

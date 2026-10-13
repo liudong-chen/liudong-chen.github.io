@@ -46,13 +46,6 @@ author_profile: false
 
 <div class="research-item research-item--text">
   <div>
-    <h3>Limitations of proxy bus models in interregional market coordination</h3>
-    <p>Interface scheduling between regional electricity markets is coordinated through coordinated transaction scheduling (CTS), which relies on a simplified proxy-bus model. Working with ISO New England, we analyzed the effectiveness of this model from a foundational market economics perspective and showed that no proxy-bus construction can guarantee that market clearing always moves power from lower-cost to higher-cost regions to reduce the regional price spread. The proxy-bus construct can therefore inherently lead to efficiency losses. We discuss improvements such as financial interregional transmission products, or incorporating boundary network information with node-to-node bidding. [<a href="../assets/Proxy_Bus_CTS.pdf">Link</a>]</p>
-  </div>
-</div>
-
-<div class="research-item research-item--text">
-  <div>
     <h3>Interdependence between network structure and strategic consumers</h3>
     <p>In practice, industrial consumers often have multiple network access points. We show that jointly optimizing access point selection and consumption adjustment can reduce energy transactions between the grid and consumers, thereby mitigating the operational impact on the grid [<a href="../assets/Multiple_Sharing_Region.pdf">Link</a>]. Building on this, I developed a methodology that incentivizes consumers to adjust demand patterns while enabling the system operator to adaptively reconfigure the network through switch-position adjustments, improving operational efficiency [<a href="../assets/Dynamic_network_structures.pdf">Link</a>]. Extending this line of research, I designed a voltage regulation approach in which autonomous consumers with solar panels are incentivized to provide voltage support, making use of existing infrastructure to support stable system operation [<a href="../assets/Voltage_Regulation.pdf">Link</a>].</p>
   </div>

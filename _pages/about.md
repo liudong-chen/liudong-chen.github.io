@@ -8,7 +8,6 @@ I am a Postdoctoral Fellow at [Harvard University](https://www.harvard.edu/), jo
 
 My research lies at the intersection of operations research, energy systems, and market design, with an emphasis on demand-side flexibility and electricity markets. I study how decision makers, from households and aggregators to data centers and system operators, behave under uncertainty and emerging market mechanisms. Building on this, I design pricing, aggregation, and infrastructure solutions that are efficient, fair, and reliable. My recent work examines how fast-growing data center demand should be integrated with the power grid.
 
-<!-- You can find my [CV](../assets/CV_Liudong.pdf) here --> 
 
 
 Latest News

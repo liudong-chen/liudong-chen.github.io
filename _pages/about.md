@@ -14,7 +14,7 @@ Latest News
 ======
 
 <ul class="news">
-  <li><span class="news__date">Sep. 2026</span><span>I joined Harvard University as a Postdoctoral Fellow at the School of Engineering and Applied Sciences and Harvard Business School. I am also a Teaching Fellow for ENCE50 <em>Gateway to Science and Engineering for Sustainable Solutions</em>.</span></li>
+  <li><span class="news__date">Sep. 2026</span><span>I joined Harvard University as a Postdoctoral Fellow at the School of Engineering and Applied Sciences and Harvard Business School.</span></li>
   <li><span class="news__date">Aug. 2026</span><span>I completed my Ph.D. at Columbia University.</span></li>
   <li><span class="news__date">Jun. 2026</span><span>I presented <a href="../assets/Proxy_Bus_CTS.pdf">The Limitations of Proxy Bus Models in Coordinated Transaction Scheduling</a> at ACM e-Energy 2026 and my thesis research at the e-Energy PhD Forum in Banff, Canada, along with a poster at ACM Sustainability Week.</span></li>
   <li><span class="news__date">May 2026</span><span>I presented our work on <a href="https://arxiv.org/abs/2405.16356">risk-awareness in demand response</a> at the Northeast Systems and Control Workshop at Princeton.</span></li>

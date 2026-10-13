@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Courses
-
 <div class="course">
 <h3>ENCE50 Gateway to Science and Engineering for Sustainable Solutions</h3>
 <p class="course__meta">Teaching Fellow, <em>Harvard University</em>, Fall 2026 &amp; Spring 2027. Instructors: Prof. Lene Hau, Prof. Elsie Sunderland, and Prof. Le Xie</p>
@@ -29,16 +27,3 @@ redirect_from:
 <p>Fundamentals of power system economics over which the current electricity markets are designed. Formulation of unit commitment and economic dispatch as mathematical optimization. Modeling of thermal generators, renewable generators, energy storage, and other grid resources in power system optimization. Introduction of equilibriums in electricity markets. Introduction of ancillary service markets. Overview of current energy system research topics. <span class="pub-links"><a href="../assets/EEEL4220_Syllabus.pdf">Syllabus</a></span></p>
 </div>
 
-## Mentoring
-
-**Columbia University**
-
-* Justin Alexander Clarke, B.S. in Computer Science, Jun. 2024 – May 2025. *Socio-economic dependencies of electrification potential in New York City*
-* Liwen Peng, M.S. in Data Science, Sep. 2023 – Jun. 2024. *Demographics-driven electrification path in New York City*
-* Zhongyi Meng, M.S. in Mechanical Engineering, Sep. 2023 – Jan. 2024. *High-granularity thermal load generation modeling for buildings*
-
-**North China Electric Power University**
-
-* Yufan Lu, Ph.D. in Electrical Engineering, Sep. 2020 – Jun. 2022. *Emergency resources scheduling and outage recovery for power distribution systems*
-* Yubing Chen, M.S. in Electrical Engineering, Sep. 2020 – Jun. 2022. *Region-to-region energy sharing for prosumer clusters in power distribution systems*
-* Liangying Liu, M.S. in Electrical Engineering, Sep. 2020 – Jun. 2021. *Modeling prosumers' demand-shifting preferences in energy sharing based on survey and load metering data*

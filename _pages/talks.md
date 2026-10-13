@@ -51,10 +51,3 @@ author_profile: true
   <li><span class="tag tag--poster">Poster</span> <b>Saturation Effects in Equitable Demand Response Tariff Design</b><br><span class="talk-meta">2023 IEEE PES General Meeting, Jul. 2023, Orlando, U.S.</span> <span class="pub-links"><a href="../assets/2023_PESGM.pdf">Poster</a></span></li>
   <li><span class="tag tag--poster">Poster</span> <b>Saturation Effects in Equitable Demand Response Tariff Design</b><br><span class="talk-meta">2023 Columbia University Data Science Day, Apr. 2023, New York, U.S.</span> <span class="pub-links"><a href="../assets/2023_PESGM.pdf">Poster</a></span></li>
 </ul>
-
-## 2021
-
-<ul class="talk-list">
-  <li><span class="tag tag--oral">Oral</span> <b>Cyber Security in Interactive Demand Response</b><br><span class="talk-meta">IEEE 6th Conference on Energy Internet and Energy System Integration (EI2), Oct. 2021, Taiyuan, China</span></li>
-  <li><span class="tag tag--oral">Oral</span> <b>Learning-based Distribution Network Reconfiguration Algorithm</b><br><span class="talk-meta">2021 IEEE IAS Industrial &amp; Commercial Power System Asia, Jul. 2021, Chengdu, China</span></li>
-</ul>

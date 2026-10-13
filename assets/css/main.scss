@@ -39,3 +39,176 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Site-specific layout (news, research highlights, publications, talks)
+   ========================================================================== */
+
+/* News list on the home page */
+.news {
+  list-style: none;
+  margin: 0 0 1.5em;
+  padding: 0;
+
+  li {
+    display: grid;
+    grid-template-columns: 6.5em 1fr;
+    gap: 0.75em;
+    padding: 0.45em 0;
+    border-bottom: 1px solid $border-color;
+    font-size: 0.95em;
+  }
+
+  .news__date {
+    font-weight: bold;
+    color: $dark-gray;
+    white-space: nowrap;
+  }
+}
+
+.news-more summary {
+  cursor: pointer;
+  color: $link-color;
+  font-size: 0.95em;
+  margin-bottom: 0.5em;
+}
+
+/* Research highlights */
+.highlight-title {
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid $border-color;
+
+  .highlight-num {
+    display: block;
+    font-size: $type-size-6;
+    font-weight: normal;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $gray;
+  }
+}
+
+.research-item {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  gap: 1.75em;
+  align-items: start;
+  margin: 1.5em 0 2.25em;
+
+  h3 {
+    margin-top: 0;
+  }
+
+  p {
+    margin-top: 0;
+  }
+
+  .research-item__figure img {
+    width: 100%;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+    background: #fff;
+  }
+
+  &.research-item--text {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  @include breakpoint(max-width 768px) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.75em;
+  }
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.1em 0.55em;
+  margin-right: 0.35em;
+  border-radius: 3px;
+  font-size: 0.75em;
+  font-weight: bold;
+  line-height: 1.6;
+  vertical-align: middle;
+  color: #fff;
+  background: $gray;
+
+  &.tag--oral { background: #3b6ea5; }
+  &.tag--poster { background: #5a8f5e; }
+  &.tag--both { background: #7a5a9e; }
+  &.tag--new { background: #b5563c; }
+}
+
+/* Publications */
+.pub-list {
+  list-style: none;
+  margin: 0 0 1.5em;
+  padding: 0;
+
+  li {
+    display: grid;
+    grid-template-columns: 2.75em 1fr;
+    gap: 0.5em;
+    padding: 0.55em 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .pub-id {
+    font-weight: bold;
+    color: $gray;
+  }
+
+  .pub-title {
+    font-weight: bold;
+  }
+
+  .pub-venue {
+    font-style: italic;
+  }
+
+  .pub-note {
+    color: $gray;
+    font-size: 0.9em;
+  }
+}
+
+.pub-links a {
+  display: inline-block;
+  padding: 0 0.45em;
+  margin-right: 0.25em;
+  border: 1px solid $link-color;
+  border-radius: 3px;
+  font-size: 0.8em;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+    background: $link-color;
+  }
+}
+
+/* Talks and teaching */
+.talk-list {
+  margin-bottom: 1.5em;
+
+  li {
+    margin-bottom: 0.5em;
+  }
+
+  .talk-meta {
+    color: $gray;
+  }
+}
+
+.course {
+  margin-bottom: 1.75em;
+
+  h3 {
+    margin-bottom: 0.25em;
+  }
+
+  .course__meta {
+    margin: 0 0 0.5em;
+    color: $gray;
+  }
+}

@@ -1,0 +1,7 @@
+# Private source documents: never publish
+CV0910.pdf
+main1013.pdf
+# arXiv papers are linked, not hosted
+assets/2604.03559v1.pdf
+assets/2606.02820v1*.pdf
+.DS_Store

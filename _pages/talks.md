@@ -6,21 +6,55 @@ author_profile: true
 ---
 
 {% include base_path %}
-* **(Oral & Poster)** Independent System Operator - New England Intern Poster Expo: Efficiency Evaluation and Improvement of Coordinated Transaction Scheduling. Aug. 2025, Holyoke, U.S. [[Poster](../assets/ISONE-poster.pdf)]
-* **(Oral)** Independent System Operator - New England Market and Optimization Group Meeting: A Prudent Framework for Understanding Risk-Awareness in Demand Response. Aug. 2025, Holyoke, U.S. [[Slides](../assets/Prudent_ISO.pdf)]
-* **(Poster)** 2025 IEEE PES General Meeting: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Jul. 2025, Austin, U.S. [[Poster](../assets/PESGM_2025.pdf)]
-* **(Poster)** 2025 Columbia University Financial and Business Analytics Poster Session (Spring 2025): Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Poster](../assets/DSI_2025.pdf)]
-* **(Oral)** 6th annual Columbia University EEE Graduate Student Symposium: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Feb. 2025, New York, U.S. [[Slides](../assets/2025EEE_ppt.pdf)]
-* **(Poster)** 2025 LANL Grid Science Winter School and Conference: Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior. Jan. 2025, Santa Fe, U.S. [[Poster](../assets/2025_Winter_school.pdf)]
-* **(Poster)** 7th NREL Autonomous Energy Systems Workshop: Prudent Price-Responsive Demands. Sep. 2024, Denver, U.S. [[Poster](../assets/prudent_poster.pdf)]
-* **(Oral & poster)** 6th NREL Autonomous Energy Systems Workshop: Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach. Sep. 2023, Denver, U.S. [[Slides](../assets/2023AES_ppt.pdf)] [[Poster](../assets/2023AES_poster.pdf)]
-* **(Oral)** ACM SIGEnergy Graduate Student Seminar: Prudent Price-Responsive Demands. May. 2024, Online. [[Slides](../assets/prudent_ppt.pdf)]
-* **(Oral)** 2023 North American Power Symposium (NAPS): Equitable Time-Varying Pricing Tariff Design. Oct. 2023, Asheville, U.S. [[Slides](../assets/2023NAPS_slide.pdf)]
-* **(Oral)** 5th annual Columbia University EEE Graduate Student Symposium: Optimal Offering Strategy of a Price-Taking Virtual Power Plant (VPP). Sep. 2023, New York, U.S. 
-* **(Poster)** 2024 IEEE PES General Meeting: Prudent Price-Responsive Demands. Jul. 2024, Seattle, U.S. [[Poster](../assets/prudent_poster.pdf)]
-* **(Poster)** 2024 IEEE ISGT NA: Demand Side Flexibility Envelope Quantification Under Data Scarcity. Feb. 2024, D.C., U.S. [[Poster](../assets/2024ISGT_poster.pdf)]
-* **(Poster)** 2023 IEEE PES General Meeting: Saturation Effects in Equitable Demand Response Tariff Design. Jul. 2023, Orlando, U.S. [[Poster](../assets/2023_PESGM.pdf)]
-* **(Poster)** 2023 Columbia University Data Science Day: Saturation Effects in Equitable Demand Response Tariff Design. Apr. 2023, New York, U.S. [[Poster](../assets/2023_PESGM.pdf)]
-* **(Oral)** IEEE 6th Conference on Energy Internet and Energy System Integration (EI2): Cyber Security in Interactive Demand Response. Oct. 2021. Taiyuan, China. 
-* **(Oral)** 2021 IEEE IAS Industrial & Commercial Power System Asia: Learning-based Distribution Network Reconfiguration Algorithm, Jul. 2021, Chengdu, China. 
-  
+
+## 2026
+
+<ul class="talk-list">
+  <li><span class="tag tag--oral">Oral</span> <b>The Limitations of Proxy Bus Models in Coordinated Transaction Scheduling</b><br><span class="talk-meta">ACM e-Energy 2026, Jun. 2026, Banff, Canada</span> <span class="pub-links"><a href="../assets/Proxy_Bus_CTS.pdf">Paper</a></span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Behavior Modeling and Analysis in Energy Systems</b><br><span class="talk-meta">ACM e-Energy PhD Forum, Jun. 2026, Banff, Canada</span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Fairness as an Investment: Dynamic Participation and Long-Run Profit in Virtual Power Plants</b><br><span class="talk-meta">ACM Sustainability Week, Jun. 2026, Banff, Canada</span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>A Prudent Framework for Understanding Risk-Awareness in Demand Response</b><br><span class="talk-meta">Northeast Systems and Control Workshop, May 2026, Princeton, U.S.</span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Fair Aggregation in Virtual Power Plants</b><br><span class="talk-meta">DAX: Data Science and AI Exchange, Apr. 2026, New York, U.S.</span></li>
+</ul>
+
+## 2025
+
+<ul class="talk-list">
+  <li><span class="tag tag--oral">Oral</span> <b>Behavior Modeling and Analysis in Energy Systems</b><br><span class="talk-meta">Purdue University Power Group Seminar, Dec. 2025, Online</span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Behavior Modeling and Analysis in Energy Systems</b><br><span class="talk-meta">New York University Power Group Seminar, Dec. 2025, New York, U.S.</span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Behavior Modeling and Analysis in Energy Systems</b><br><span class="talk-meta">2025 INFORMS Annual Meeting (Session Chair of "Human-Centric Energy Markets"), Oct. 2025, Atlanta, U.S.</span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Behavior Modeling and Analysis in Energy Systems</b><br><span class="talk-meta">Caltech RSRG/FALCON Seminar, Sep. 2025, Online</span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior</b><br><span class="talk-meta">Columbia Center of Advanced Electrification Symposium, Sep. 2025, New York, U.S.</span></li>
+  <li><span class="tag tag--both">Oral &amp; Poster</span> <b>Efficiency Evaluation and Improvement of Coordinated Transaction Scheduling</b><br><span class="talk-meta">ISO New England Intern Poster Expo, Aug. 2025, Holyoke, U.S.</span> <span class="pub-links"><a href="../assets/ISONE-poster.pdf">Poster</a></span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>A Prudent Framework for Understanding Risk-Awareness in Demand Response</b><br><span class="talk-meta">ISO New England Market and Optimization Group Meeting, Aug. 2025, Holyoke, U.S.</span> <span class="pub-links"><a href="../assets/Prudent_ISO.pdf">Slides</a></span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior</b><br><span class="talk-meta">2025 IEEE PES General Meeting, Jul. 2025, Austin, U.S.</span> <span class="pub-links"><a href="../assets/PESGM_2025.pdf">Poster</a></span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior</b><br><span class="talk-meta">Columbia University Financial and Business Analytics Poster Session, Feb. 2025, New York, U.S.</span> <span class="pub-links"><a href="../assets/DSI_2025.pdf">Poster</a></span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior</b><br><span class="talk-meta">6th Annual Columbia University EEE Graduate Student Symposium, Feb. 2025, New York, U.S.</span> <span class="pub-links"><a href="../assets/2025EEE_ppt.pdf">Slides</a></span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Gaming on Coincident Peak Shaving: Equilibrium and Strategic Behavior</b><br><span class="talk-meta">2025 LANL Grid Science Winter School and Conference, Jan. 2025, Santa Fe, U.S.</span> <span class="pub-links"><a href="../assets/2025_Winter_school.pdf">Poster</a></span></li>
+</ul>
+
+## 2024
+
+<ul class="talk-list">
+  <li><span class="tag tag--poster">Poster</span> <b>Prudent Price-Responsive Demands</b><br><span class="talk-meta">7th NREL Autonomous Energy Systems Workshop, Sep. 2024, Golden, U.S.</span> <span class="pub-links"><a href="../assets/prudent_poster.pdf">Poster</a></span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Prudent Price-Responsive Demands</b><br><span class="talk-meta">2024 IEEE PES General Meeting, Jul. 2024, Seattle, U.S.</span> <span class="pub-links"><a href="../assets/prudent_poster.pdf">Poster</a></span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Prudent Price-Responsive Demands</b><br><span class="talk-meta">ACM SIGEnergy Graduate Student Seminar, May 2024, Online</span> <span class="pub-links"><a href="../assets/prudent_ppt.pdf">Slides</a></span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Demand Side Flexibility Envelope Quantification Under Data Scarcity</b><br><span class="talk-meta">2024 IEEE Innovative Smart Grid Technologies, North America (ISGT NA), Feb. 2024, Washington, D.C., U.S.</span> <span class="pub-links"><a href="../assets/2024ISGT_poster.pdf">Poster</a></span></li>
+</ul>
+
+## 2023
+
+<ul class="talk-list">
+  <li><span class="tag tag--oral">Oral</span> <b>Equitable Time-Varying Pricing Tariff Design</b><br><span class="talk-meta">2023 North American Power Symposium (NAPS), Oct. 2023, Asheville, U.S.</span> <span class="pub-links"><a href="../assets/2023NAPS_slide.pdf">Slides</a></span></li>
+  <li><span class="tag tag--both">Oral &amp; Poster</span> <b>Equitable Time-Varying Pricing Tariff Design: A Joint Learning and Optimization Approach</b><br><span class="talk-meta">6th NREL Autonomous Energy Systems Workshop, Sep. 2023, Denver, U.S.</span> <span class="pub-links"><a href="../assets/2023AES_ppt.pdf">Slides</a><a href="../assets/2023AES_poster.pdf">Poster</a></span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Optimal Offering Strategy of a Price-Taking Virtual Power Plant</b><br><span class="talk-meta">5th Annual Columbia University EEE Graduate Student Symposium, Sep. 2023, New York, U.S.</span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Saturation Effects in Equitable Demand Response Tariff Design</b><br><span class="talk-meta">2023 IEEE PES General Meeting, Jul. 2023, Orlando, U.S.</span> <span class="pub-links"><a href="../assets/2023_PESGM.pdf">Poster</a></span></li>
+  <li><span class="tag tag--poster">Poster</span> <b>Saturation Effects in Equitable Demand Response Tariff Design</b><br><span class="talk-meta">2023 Columbia University Data Science Day, Apr. 2023, New York, U.S.</span> <span class="pub-links"><a href="../assets/2023_PESGM.pdf">Poster</a></span></li>
+</ul>
+
+## 2021
+
+<ul class="talk-list">
+  <li><span class="tag tag--oral">Oral</span> <b>Cyber Security in Interactive Demand Response</b><br><span class="talk-meta">IEEE 6th Conference on Energy Internet and Energy System Integration (EI2), Oct. 2021, Taiyuan, China</span></li>
+  <li><span class="tag tag--oral">Oral</span> <b>Learning-based Distribution Network Reconfiguration Algorithm</b><br><span class="talk-meta">2021 IEEE IAS Industrial &amp; Commercial Power System Asia, Jul. 2021, Chengdu, China</span></li>
+</ul>

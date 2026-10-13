@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Liudong Chen"
 title_separator          : "-"
 name                     : "Liudong Chen"
-description              : "Liudong Chen is a Ph.D student of Earth and Environmental Engineering at Columbia University."
+description              : "Liudong Chen is a Postdoctoral Fellow at Harvard University, working on operations research, energy systems, and electricity market design."
 URL                      : "https://liudong-chen.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liudong-chen.github.io"
@@ -21,15 +21,15 @@ repository               : "liudong-chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile_2026.jpg"
   name             : "Liudong (Leo) Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student <br />
-                      Columbia University"
-  # location         : "Earth"
+  bio              : "Postdoctoral Fellow <br />
+                      Harvard University"
+  location         : "Cambridge, MA"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : "lc3671@columbia.edu" 
+  email            : "liudong@seas.harvard.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
